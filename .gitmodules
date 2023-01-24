@@ -1,0 +1,24 @@
+[submodule "ThijmenOS-client"]
+	path = ThijmenOS-client
+	url = https://github.com/ThijmenOS/ThijmenOS-client.git
+[submodule "ThijmenOS-common"]
+	path = ThijmenOS-common
+	url = https://github.com/ThijmenOS/ThijmenOS-common.git
+[submodule "ThijmenOS-server"]
+	path = ThijmenOS-server
+	url = https://github.com/ThijmenOS/ThijmenOS-server.git
+[submodule "ThijmenOS-graphics"]
+	path = ThijmenOS-graphics
+	url = https://github.com/ThijmenOS/ThijmenOS-graphics.git
+[submodule "ThijmenOS-docs"]
+	path = ThijmenOS-docs
+	url = https://github.com/ThijmenOS/ThijmenOS-docs.git
+[submodule "ThijmenOS-promptManager"]
+	path = ThijmenOS-promptManager
+	url = https://github.com/ThijmenOS/ThijmenOS-promptManager.git
+[submodule "ThijmenOS-errorManager"]
+	path = ThijmenOS-errorManager
+	url = https://github.com/ThijmenOS/ThijmenOS-errorManager.git
+[submodule "ThijmenOS-eslint"]
+	path = ThijmenOS-eslint
+	url = https://github.com/ThijmenOS/ThijmenOS-eslint.git
